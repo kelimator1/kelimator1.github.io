@@ -22,7 +22,6 @@ yeniden ölçeklendirildi.
 Tüm geliştirme ve bu dökümanın yazımı sürecinde DeepSeek V4.1 Flash
 kullanıldı; oyun güncel web teknolojileriyle sıfırdan yazıldı.
 
-## Kredi
 Orijinal oyun bana ait değildir. Bu sürüm yalnızca nostalji için
 hazırlanmış, ticari olmayan bir hayran projesidir. Hak sahibinin talebi üzerine kaldırılabilir.
 
