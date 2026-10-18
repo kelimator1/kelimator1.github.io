@@ -23,3 +23,7 @@ kullanıldı; oyun güncel web teknolojileriyle sıfırdan yazıldı.
 ## Kredi
 Orijinal oyun ve tüm özgün varlıklar bana ait değildir. Bu sürüm yalnızca nostalji için
 hazırlanmış, ticari olmayan bir hayran projesidir. Hak sahibinin talebi üzerine kaldırılabilir.
+
+## Ekran görüntüsü
+
+![Kelimatör — oyun ekranı](media/screenshot.png)
