@@ -17,7 +17,9 @@ Bu sürümde oyunun kelime listesi güncel TDK sözlüğüne göre güncellendi.
 Projenin amacı oyunu iyileştirmek ya da yeniden yorumlamak değil; oyunun nostaljik deneyimini
 birebir yaşatmaktır. Bu yüzden orijinal görseller, animasyonlar ve sesler olduğu gibi korundu;
 vektör görseller özgün hâliyle kullanıldı, bitmap görseller realesrgan-x4plus ile HD kalitede
-yeniden ölçeklendirildi. Tüm geliştirme ve bu dökümanın yazımı sürecinde DeepSeek V4.1 Flash
+yeniden ölçeklendirildi.
+
+Tüm geliştirme ve bu dökümanın yazımı sürecinde DeepSeek V4.1 Flash
 kullanıldı; oyun güncel web teknolojileriyle sıfırdan yazıldı.
 
 ## Kredi
